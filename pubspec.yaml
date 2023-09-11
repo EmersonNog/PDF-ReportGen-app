@@ -1,0 +1,70 @@
+name: aeroporto
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.14.0
+  firebase_auth: ^4.7.2
+  cloud_firestore: ^4.8.4
+  uuid: ^3.0.7
+  multi_select_flutter: ^4.1.3
+  mask_text_input_formatter: ^2.4.0
+  font_awesome_flutter: ^10.4.0
+  pdf: ^3.10.1
+  open_file: ^3.3.1
+  printing: ^5.10.4
+  image_picker: ^0.8.7+5
+  path_provider: ^2.0.15
+  location: ^4.4.0
+  permission_handler: ^10.4.1
+  geolocator: ^9.0.2
+  image: ^4.0.17
+  shared_preferences: ^2.2.0
+  provider: ^6.0.5
+  gallery_saver: ^2.3.2
+  url_launcher: ^6.1.11
+  shimmer: ^3.0.0
+  pie_chart: ^5.3.2
+  flutter_drawing_board: ^0.4.4+2
+  carousel_slider: ^4.2.1
+  flutter_expandable_fab: ^2.0.0
+  intl: ^0.18.1
+  http: ^0.13.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/images/certare.png
+   - assets/images/footer/gp_certare.png
+   - assets/images/footer/company_certare.png
+   - assets/images/footer/htb.png
+   - assets/images/footer/CCR.jpg
+   - assets/images/assinatura.png
+   - assets/images/cadeado.png
+   - assets/images/carrossel/obras.png
+   - assets/images/carrossel/supervisao.png
+   - assets/images/carrossel/energia.png
+   - assets/images/carrossel/mineracao.png
+   - assets/images/carrossel/arquitetura.png
+   - assets/images/carrossel/inovacao.png
+   - assets/images/carrossel/seg_viaria.png
+   - assets/images/chatbot/user.png
+   - assets/images/chatbot/bot.png
+   
+  fonts:
+    - family: Prototype
+      fonts:
+        - asset: assets/fonts/Prototype.ttf
