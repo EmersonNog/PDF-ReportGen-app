@@ -14,6 +14,7 @@ Este repositório contém o código-fonte e a documentação para o nosso aplica
 ![Imgur](https://i.imgur.com/YvHtYSy.png)
 ![Imgur](https://i.imgur.com/VNXZoEo.png)
 ![Imgur](https://i.imgur.com/pSZz4zX.png)
+![Imgur](https://i.imgur.com/OJaDTis.png)
 <br>
 ![Imgur](https://i.imgur.com/9zBwjYf.png)
 ![Imgur](https://i.imgur.com/VrwviMs.png)
@@ -25,10 +26,17 @@ Este repositório contém o código-fonte e a documentação para o nosso aplica
 
 O aplicativo permite a criação de relatórios detalhados que incluem informações qualitativas e quantitativas sobre pesquisas em campo.
 
+![Imgur](https://i.imgur.com/Smvceoy.jpg)
+![Imgur](https://i.imgur.com/SVkIegB.jpg)
+
 ### Relatórios Fotográficos
 
 Você pode tirar fotos diretamente do aplicativo e anexá-las aos seus relatórios, proporcionando evidências visuais.
 Você também pode buscar imagens da galeria, agilizando ainda mais o processo, ao selecionar todas as imagens que queria de uma vez só.
+
+![Imgur](https://i.imgur.com/LN9LcXn.jpg)
+![Imgur](https://i.imgur.com/R8TKTkr.jpg)
+![Imgur](https://i.imgur.com/f3UXBH3.jpg)
 
 ### Sistema de Contas e Login Seguro
 
